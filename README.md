@@ -1,4 +1,4 @@
-hello
-sdfkjs
-나느 장현성이다.
-salkfjsdlkwqeewqf
+##자기소개
+hello world!
+
+컴공 장현성입니다.
